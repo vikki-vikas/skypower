@@ -1,0 +1,14 @@
+.image_card{
+    max-width: 100px;
+    max-height: 100px;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.blue_background{
+    background-color: #0c5dc7;
+}
+
+.text-white{
+    color: white;
+}
